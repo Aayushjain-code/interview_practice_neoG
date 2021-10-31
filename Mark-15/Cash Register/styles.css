@@ -1,0 +1,16 @@
+body{
+	padding: 5rem;
+	text-align: left;
+}
+
+label{
+	display: inline-block;
+	padding: 0.5rem;
+}
+
+#btn{
+	display: block;
+	position: relative;
+	left: 130px;
+	top: 3px;
+}
